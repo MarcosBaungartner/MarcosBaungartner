@@ -1,7 +1,8 @@
 
 ## 📄 Sobre mim
 Estou sempre em busca do aperfeiçoamento pessoal e profissional.
-A minha especialização é **Automação Robótica de Processos**, desenvolvendo soluções que libertem as pessoas de tarefas operacionais repetitivas, baseadas em regras de negócio, entradas e saídas estruturadas, volumosas, demoradas, suscetíveis a erros humanos e com duplicação de dados em múltiplos sistemas. Para que assim as pessoas possam focar nas tarefas em que são melhores: *criatividade*, *inovação*, *intelectualidade*.  
+A minha especialização é **Automação Robótica de Processos**, desenvolvendo soluções que realizem tarefas operacionais com as seguintes características: repetitivas; volumosas; demoradas; baseadas em regras; com entradas e saídas estruturadas; suscetíveis a erros humanos; e que exigem duplicação de dados em múltiplos sistemas.
+Para que assim as pessoas possam focar nas atividades intelectuais em que são melhores: *criatividade* e *inovação*.  
 
 Minha vida toda foi dedicada ao estudo das *Tecnologias de Informação e Comunicação*.
 
