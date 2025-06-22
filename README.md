@@ -35,4 +35,4 @@ Minha ***missão*** é contribuir para o avanço da humanidade, tornando o mundo
 
 ## 🚀 Objetivos
 
-Atualmente estou me dedicando a *IA & Machine Learning*, *Data Science* e desenvolvimento *Web*.
+Aprimorar habildades em *Automação*, *IA & Machine Learning*, *Data Science* e desenvolvimento *Web*.
