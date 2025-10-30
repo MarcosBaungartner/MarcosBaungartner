@@ -22,7 +22,7 @@ Minha ***missão*** é contribuir para o avanço da humanidade, tornando o mundo
 | Conhecimentos | ![HTML5 Site](https://img.shields.io/badge/HTML5-05122A?style=plastic&logo=html5&labelColor=black) | ![CSS3 Site](https://img.shields.io/badge/CSS3-05122A?style=plastic&logo=css&labelColor=black) | ![UiPath Site](https://img.shields.io/badge/UiPath-05122A?style=plastic&logo=uipath&labelColor=black) | ![AWS Site](https://img.shields.io/badge/AWS-05122A?style=plastic&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAICAYAAADJEc7MAAABWElEQVQYV4XMv0vUYQDH8ffneS4NLu0XiTlIKJp0dHfxXSQP75uIThEN9gMaJXC%2BqanagnByK6h%2FoBtbaogTB0WNGxp0CHFxEcHFRe77fBr8A3pPr%2Bmt0fuN6%2F0hfEC6YfswoCMn7zhwOcCz%2FW5nebLe%2FCbxxdYKpONe0fdGthl%2F0JyIBbeJrCVYCfYTpIAZiwqtwn4r%2FCfhkRjS6t7vjaMwVWvOlRIfhcpY8W93fRPCPSdfxer0nFpQtPe7nVXgR0rx6936o0boSUYMOjgDayybHzA%2BFOE02r8Ez3028HOiPvtKCjXAUJxjm%2FHqw6FqdaGc53nJNpVKpS%2FLsksXzq%2FYhqWlOFVrTN6p59dsI3%2FiBWKLZR%2Fwvz6rQuIpgcfyO0oM00JMA%2BvANrDHa054j7jFECVGMDOIaUwbkcn2xW1Ng%2FTzErOIqAHDQAKOEbvAdyJtzjinzM1%2FnJ6LMwcoO90AAAAASUVORK5CYII%3D&labelColor=black) |
 |-|-|-|-|-|
 
-- Manipulação de arquivos e diretórios
+- Manipulação e Análise de Dados
 - Janelas, Formulários e Dashboards
 - Webscraping
 
