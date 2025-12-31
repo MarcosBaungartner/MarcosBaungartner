@@ -7,7 +7,7 @@ Minha vida toda foi dedicada ao estudo das *Tecnologias de Informação e Comuni
 
 Minha ***missão*** é contribuir para o avanço da humanidade, tornando o mundo um lugar melhor.
 
-Possuo certificação [**PCEP™ – Certified Entry-Level Python Programmer**](https://www.credly.com/badges/5fba88a7-6d33-4220-9da5-16357f7f46f4/public_url)
+Possuo certificação [**PCEP™ – Certified Entry-Level Python Programmer**](https://www.credly.com/earner/earned/badge/5fba88a7-6d33-4220-9da5-16357f7f46f4)
 
 
 ## 🛠 Habilidades
