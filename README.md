@@ -5,9 +5,9 @@ Constantly seeking personal and professional growth. 🚀
 
 As a **Robotic Process Automation (RPA)** specialist, I develop intelligent solutions to eliminate repetitive, time-consuming, and error-prone operational tasks. My goal is to unlock human potential, allowing people to focus on strategic and intellectual activities such as:
 
-• 🧠 Critical thinking and logical reasoning
-• 💡 Creativity and problem-solving
-• 📊 Data analysis and decision-making
+- 🧠 Critical thinking and logical reasoning
+- 💡 Creativity and problem-solving
+- 📊 Data analysis and decision-making
 
 With a lifelong dedication to Information and Communication Technologies, my mission is to leverage automation to build a more efficient and better world.
 
